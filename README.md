@@ -1,4 +1,11 @@
-trash
+Екатеринбург
+===
+Добавьте свои фамилии в этот файл ниже:
+* ...
+* ...
+
+
+Новосибирск
 =====
 * hello, world! Vetrov and Chuvilev \o/. They are PRO.
 * sanekspot was 2nd! My name is Alex Ilin
