@@ -6,7 +6,7 @@ dantre
 kvazarich
 asdasdasasdasdasdad
 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Кондратьев
+* Кондратьев
 
 Новосибирск
 =====
