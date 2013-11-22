@@ -1,10 +1,9 @@
 Екатеринбург
 ===
-Добавьте свои фамилии в этот файл ниже:
+Добавьте свои фамилии в этот файл ниже: 
 * ...
-* ...
-
-
+dantre
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Новосибирск
 =====
 * hello, world! Vetrov and Chuvilev \o/. They are PRO.
