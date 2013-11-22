@@ -2,6 +2,8 @@
 ===
 Добавьте свои фамилии в этот файл ниже: 
 
+MIKLE WAS THERE
+
 * ...
 dantre
 Telyatnikova Titkov
