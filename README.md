@@ -7,12 +7,15 @@ Telyatnikova Titkov
 kvazarich
 asdasdasasdasdasdad
 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
 * Vitaly Ishkulov
 * Maksim Nafikov
 =======
 Кондратьев
 >>>>>>> 4d5d161e533af97ba8dd4d3c453f5bb5718712df
+=======
+* Кондратьев
+* Третьяков
+>>>>>>> 9624e8e1bdc9af98cb0cec9b58eb133e67bcf727
 
 Новосибирск
 =====
