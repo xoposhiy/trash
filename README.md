@@ -9,7 +9,6 @@ Mezentseva
 kvazarich
 asdasdasasdasdasdad
 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
 * Vitaly Ishkulov
 * Maksim Nafikov
 =======
