@@ -11,7 +11,10 @@
 * Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 * Кондратьев
 * Третьяков
+* Vitaly Ishkulov
+* Maksim Nafikov
 * Zhiltsova and Sadovnichaya
+
 
 Новосибирск
 =====
