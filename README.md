@@ -3,6 +3,7 @@
 Добавьте свои фамилии в этот файл ниже: 
 * ...
 dantre
+kvazarich
 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Новосибирск
 =====
