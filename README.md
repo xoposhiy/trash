@@ -16,6 +16,7 @@ SYROCHKIN
 * Третьяков
 * Vitaly Ishkulov
 * Maksim Nafikov
+* Vladimir Plyashkun
 * Zhiltsova and Sadovnichaya
 
 
