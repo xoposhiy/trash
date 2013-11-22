@@ -5,13 +5,7 @@
 dantre
 kvazarich
 Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-<<<<<<< HEAD
-tttkR
-=======
 
-
-
->>>>>>> fix markup
 Новосибирск
 =====
 
