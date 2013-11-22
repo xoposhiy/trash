@@ -3,22 +3,16 @@
 Добавьте свои фамилии в этот файл ниже: 
 
 * ...
-dantre
-Telyatnikova Titkov
-Mezentseva
-kvazarich
-asdasdasasdasdasdad
-Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
 * dantre
 * Telyatnikova Titkov
+* Mezentseva
 * kvazarich
 * asdasdasasdasdasdad
 * Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> 27d8585fb4e436066c836a0869505a416e2836da
 * Кондратьев
 * Третьяков
-Zhiltsova and Sadovnichaya
+* Zhiltsova and Sadovnichaya
+
 Новосибирск
 =====
 
