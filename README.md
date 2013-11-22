@@ -1,12 +1,11 @@
 Екатеринбург
 ===
 Добавьте свои фамилии в этот файл ниже: 
-* ...
-dantre
-Telyatnikova Titkov
-kvazarich
-asdasdasasdasdasdad
-Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+* dantre
+* Telyatnikova Titkov
+* kvazarich
+* asdasdasasdasdasdad
+* Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 * Кондратьев
 * Третьяков
 
