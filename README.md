@@ -3,6 +3,7 @@
 Добавьте свои фамилии в этот файл ниже: 
 
 MIKLE WAS THERE
+SYROCHKIN
 
 * ...
 dantre
